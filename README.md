@@ -46,7 +46,10 @@ This actually gave the worst accuracy of the three at 0.3882.
 Performance dropped slightly across all classes compared to top_k = 3, 
 and In Transit was still not predicted at all.
 
-[📷 insert screenshot — top_k=5 result]
+![](Screenshot%202026-04-06%20173152.png)
+![](Screenshot%202026-04-06%20173226.png)
+![](Screenshot%202026-04-06%20173324.png)
+![](Screenshot%202026-04-06%20173426.png)
 
 ---
 
@@ -58,7 +61,10 @@ and Delivered reached f1 = 0.47. In Transit remained at recall = 0.00,
 which is likely due to class imbalance (only 998 samples vs ~2000 for 
 the other classes).
 
-[📷 insert screenshot — top_k=6 result]
+![](Screenshot%202026-04-06%20173457.png)
+![](Screenshot%202026-04-06%20173513.png)
+![](Screenshot%202026-04-06%20173525.png)
+![](Screenshot%202026-04-06%20173656.png)
 
 ---
 
