@@ -33,10 +33,10 @@ down to 4. The model achieved an accuracy of 0.4006. Delivered had the
 best recall at 0.54, while In Transit was completely missed (recall = 0.00).
 
 ![](Screenshot%202026-04-06%20172831.png)
+![](Screenshot%202026-04-06%20172855.png)
+![](Screenshot%202026-04-06%20172914.png)
+![](Screenshot%202026-04-06%20172939.png)
 
-
-
-![](Screenshot%2026-04-06%172855.png)
 ---
 
 **top_k = 5**
